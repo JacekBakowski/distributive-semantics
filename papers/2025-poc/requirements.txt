@@ -1,0 +1,12 @@
+gensim
+hdbscan
+matplotlib
+numpy
+pandas
+prettytable
+scikit-learn
+seaborn
+shap
+tqdm
+umap-learn
+yellowbrick
